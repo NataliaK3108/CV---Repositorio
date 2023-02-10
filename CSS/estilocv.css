@@ -82,7 +82,7 @@
     border-color: antiquewhite;
     }    
 
-     @media only screen and (max-width: 620px) {
+     @media only screen and (max-width: 420px) {
         .contenedor {
           width:100%;
           flex-direction:column;
